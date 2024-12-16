@@ -1,0 +1,14 @@
+C:\Users\M\source\repos\TestAssignment\TestAssignment\bin\Debug\net8.0\TestAssignment.exe
+C:\Users\M\source\repos\TestAssignment\TestAssignment\bin\Debug\net8.0\TestAssignment.deps.json
+C:\Users\M\source\repos\TestAssignment\TestAssignment\bin\Debug\net8.0\TestAssignment.runtimeconfig.json
+C:\Users\M\source\repos\TestAssignment\TestAssignment\bin\Debug\net8.0\TestAssignment.dll
+C:\Users\M\source\repos\TestAssignment\TestAssignment\bin\Debug\net8.0\TestAssignment.pdb
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.AssemblyInfoInputs.cache
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.AssemblyInfo.cs
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.dll
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\refint\TestAssignment.dll
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.pdb
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\TestAssignment.genruntimeconfig.cache
+C:\Users\M\source\repos\TestAssignment\TestAssignment\obj\Debug\net8.0\ref\TestAssignment.dll
